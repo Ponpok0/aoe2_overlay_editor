@@ -1,8 +1,8 @@
 # aoe2_overlay_editor
-https://github.com/CraftySalamander/RTS_Overlay のエディタです。Excelのマクロファイルです。
+https://github.com/CraftySalamander/RTS_Overlay 用のjsonファイルエディタです。Excelのマクロで作られています。
 
 https://github.com/CraftySalamander/RTS_Overlay/releases から
-aoe2_overlay.zipをダウンロードして解凍。
+aoe2_overlay.zipをダウンロードして解凍してください。
 
 ![スクリーンショット](https://github.com/Ponpok0/aoe2_overlay_editor/assets/89362710/ad4a4db8-2b6e-4bfa-868c-2483360060c5)
 
