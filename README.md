@@ -6,7 +6,7 @@ aoe2_overlay.zipをダウンロードして解凍してください。
 
 ![スクリーンショット](https://github.com/Ponpok0/aoe2_overlay_editor/assets/89362710/ad4a4db8-2b6e-4bfa-868c-2483360060c5)
 
-aoe2_overlay\build_ordersフォルダを指定して使用します。
+メニューシートでaoe2_overlay\build_ordersフォルダを指定して使用します。
 個別ページの上のアイコンクリックで編集業の末尾にaoe2_overlayの画像のタグを入れられます。（＄記号で挟まれた画像ファイル名）
 
 資源量の-1は数量非表示という意味になります。
