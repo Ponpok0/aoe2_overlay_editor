@@ -4,7 +4,7 @@ https://github.com/CraftySalamander/RTS_Overlay のエディタです。Excelの
 https://github.com/CraftySalamander/RTS_Overlay/releases から
 aoe2_overlay.zipをダウンロードして解凍。
 
-![スクリーンショット](https://github.com/Ponpok0/aoe2_overlay_editor/assets/89362710/64379607-e518-4bfb-8f02-cf4faac8f280)
+![スクリーンショット](https://github.com/Ponpok0/aoe2_overlay_editor/assets/89362710/ad4a4db8-2b6e-4bfa-868c-2483360060c5)
 
 aoe2_overlay\build_ordersフォルダを指定して使用します。
 個別ページの上のアイコンクリックで編集業の末尾にaoe2_overlayの画像のタグを入れられます。（＄記号で挟まれた画像ファイル名）
