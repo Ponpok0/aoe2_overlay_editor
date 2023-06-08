@@ -1,4 +1,5 @@
 # aoe2_overlay_editor
+![スクリーンショット](https://github.com/Ponpok0/aoe2_overlay_editor/assets/89362710/64379607-e518-4bfb-8f02-cf4faac8f280)
 https://github.com/CraftySalamander/RTS_Overlay のエディタです。Excelのマクロファイルです。
 
 https://github.com/CraftySalamander/RTS_Overlay/releases から
