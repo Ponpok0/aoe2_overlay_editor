@@ -5,7 +5,7 @@ https://github.com/CraftySalamander/RTS_Overlay/releases から
 aoe2_overlay.zipをダウンロードして解凍。
 
 aoe2_overlay\build_ordersフォルダを指定して使用します。
-個別ページの上のアイコンクリックで編集業の末尾にaoe2_overlayの画像のタグを入れられます。（例 $other/House_aoe2DE.png$）
+個別ページの上のアイコンクリックで編集業の末尾にaoe2_overlayの画像のタグを入れられます。（＄記号で挟まれた画像ファイル名）
 
 資源量の-1は数量非表示という意味になります。
 
